@@ -3,3 +3,8 @@ BruteWeb is a Python script designed for security testing of web applications, s
 
 Note: The use of this tool is strictly reserved for legal and ethical purposes. Make sure to have the authorization of the owner of the targeted web application before using BruteWeb. Unauthorized use of this tool may be illegal and is strongly discouraged.
 
+
+Usage
+Command-Line Mode:
+To run BruteWeb in command-line mode, use the following syntax:
+
