@@ -11,3 +11,7 @@ pip install -r requirements.txt
 
 python bruteweb.py --gui
 
+
+
+
+<a href="https://radikal.host/i/oz2sVW"><img src="https://e.radikal.host/2024/12/18/Screenshot_119ff5ab8eef50eb5.jpg" alt="Screenshot_119ff5ab8eef50eb5.jpg" border="0"></a>
