@@ -6,5 +6,8 @@ Note: The use of this tool is strictly reserved for legal and ethical purposes. 
 
 Usage
 Run Command Prompt as Administrator
+
+pip install -r requirements.txt
+
 python bruteweb.py --gui
 
